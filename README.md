@@ -5,7 +5,7 @@
 The N Queen is the problem of placing N non-attacking chess queens on an N×N chessboard so that no two queens attack each other. 
 Solutions exist for all natural numbers other than n=2 and n=3.
 
-![alt text](https://github.com/amritaravishankar/n_queens/blob/master/queen.jpg?raw=true){:height="200px" width="200px"}
+<img src="https://github.com/amritaravishankar/n_queens/blob/master/queen.jpg?raw=true" width="48">
 
 ## Psuedocode
 ```
