@@ -31,5 +31,5 @@ To run the visualisation tool, type the following command in the terminal:
 python backtracking.py
 ```
 
-### Reference 
+## Reference 
 https://www.geeksforgeeks.org/n-queen-problem-backtracking-3/
