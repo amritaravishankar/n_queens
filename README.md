@@ -20,7 +20,8 @@ while there are untried configurations
 ```
 ## Visualisation Tool
 ### A screenshot of the tool in progress
-The red boxes represent the spaces that cannot have a queen
+The red boxes represent the spaces that cannot have a queen.
+<br>
 <img src="https://github.com/amritaravishankar/n_queens/blob/master/screenshots/progress.png" width="250">
                                                                                                      
 ### The tool's final outcome
