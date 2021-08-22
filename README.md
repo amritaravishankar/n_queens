@@ -18,6 +18,12 @@ while there are untried configurations
    }
 }
 ```
+## Visualisation Tool
+### The tool in progress
+<img src="https://github.com/amritaravishankar/n_queens/blob/master/screenshots/progress.png" width="250">
+                                                                                                     
+### The tool's final outcome
+<img src="https://github.com/amritaravishankar/n_queens/blob/master/screenshots/final.png" width="250">
 
 ## Run the tool
 To run the visualisation tool, type the following command in the terminal:
